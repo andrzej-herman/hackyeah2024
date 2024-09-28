@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aherman\\Desktop\\hackyeah2024\\api\\SerdecznaApi\\SerdecznaApi.csproj": {}
+    "C:\\Users\\peter\\Source\\Repos\\hackyeah\\api\\SerdecznaApi\\SerdecznaApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aherman\\Desktop\\hackyeah2024\\api\\SerdecznaApi\\SerdecznaApi.csproj": {
+    "C:\\Users\\peter\\Source\\Repos\\hackyeah\\api\\SerdecznaApi\\SerdecznaApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aherman\\Desktop\\hackyeah2024\\api\\SerdecznaApi\\SerdecznaApi.csproj",
+        "projectUniqueName": "C:\\Users\\peter\\Source\\Repos\\hackyeah\\api\\SerdecznaApi\\SerdecznaApi.csproj",
         "projectName": "SerdecznaApi",
-        "projectPath": "C:\\Users\\aherman\\Desktop\\hackyeah2024\\api\\SerdecznaApi\\SerdecznaApi.csproj",
-        "packagesPath": "C:\\Users\\aherman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aherman\\Desktop\\hackyeah2024\\api\\SerdecznaApi\\obj\\",
+        "projectPath": "C:\\Users\\peter\\Source\\Repos\\hackyeah\\api\\SerdecznaApi\\SerdecznaApi.csproj",
+        "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\peter\\Source\\Repos\\hackyeah\\api\\SerdecznaApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\aherman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -74,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

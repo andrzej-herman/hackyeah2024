@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SerdecznaApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4088678c6a539f0473558ec85aeb712ac8ecc3b7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98c8b4ce52dee41c51525c14dcaffa995b5874b2")]
 [assembly: System.Reflection.AssemblyProductAttribute("SerdecznaApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SerdecznaApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
